@@ -2,10 +2,7 @@
 
 **27 network, security, and SSH tools in one native desktop app — running on ~33 MB of RAM.**
 
-[![Website](https://shields.io)](https://nettools.sh)
 [![Built With](https://shields.io)](https://qt.io)
-[![Platforms](https://shields.io)](https://nettools.sh)
-[![CLI](https://shields.io)](https://nettools.sh)
 
 Nettool replaces cluttered terminal tabs, 1990s-era utilities (like PuTTY and Angry IP Scanner), and bloated Electron wrappers with a single, fast, modern command center for network diagnostics and security checks.
 
@@ -30,7 +27,7 @@ Nettool replaces cluttered terminal tabs, 1990s-era utilities (like PuTTY and An
 | :--- | :--- | :--- |
 | **Nettool 3.0** | **C++ / Qt 6** | **~33 MB** |
 | Modern Electron Network Tools | Chromium / Node.js | ~450 MB – 900 MB |
-| Legacy Utilities (PuTTY + Angry IP + Wireshark) | Win32 / Java / GTK | Multiple separate windows |
+| Legacy Utilities (PuTTY + Angry IP + Wireshark) | Win32 / Java / GTK | 150 ~ 240 |
 
 ---
 
@@ -72,12 +69,12 @@ Nettool replaces cluttered terminal tabs, 1990s-era utilities (like PuTTY and An
 ## Installation
 
 ### Desktop GUI (Linux & Windows)
-Download the latest native installer or portable binary for your platform from **[nettools.sh](https://nettools.sh)**:
+Download the latest native installer or portable binary for your platform from this github.
 * **Linux:** `.deb`, `.AppImage`, or binary archive
 * **Windows:** `.exe` installer / portable `.zip`
 
 ### Free CLI
-The companion CLI is **100% free** for personal, commercial, and headless server use. Visit **[nettools.sh](https://nettools.sh)** for installation instructions and CLI documentation.
+The companion CLI is **100% free** for personal, commercial, and headless server use. Contact me for installation instructions and CLI documentation.
 
 ---
 
@@ -91,4 +88,3 @@ Nettool supports adjustable window opacity and background blur.
 ## Feedback & Roadmap
 Found a bug, want to request a new network tool, or have feedback on platform support?
 * Open an issue right here on GitHub
-* Visit **[nettools.sh](https://nettools.sh)** for updates and releases
