@@ -56,7 +56,7 @@ To remove Nettool CLI, simply delete the downloaded binary (`rm ./nettool-cli` o
 * **Discovery & Scanning:** Subnet sweep, Batch host check, Banner grab, Wait for port, Local port check, Open sockets, ARP table
 * **Security & OSINT:** Breach check (email & domain), TLS certificate inspector, WHOIS
 * **Web & DNS:** HTTP headers, HTTP timing, DNS resolver check, Reverse DNS, Public IP
-* **Routing & Performance:** Bandwidth test, Path MTU, Traffic monitor, Traceroute, CIDR calculator, Ping
+* **Routing, Performance & Remote Access:** SSH client, Bandwidth test, Path MTU, Traffic monitor, Traceroute, CIDR calculator, Ping
 
 ---
 
@@ -68,7 +68,7 @@ If you prefer a full graphical interface on **Linux or Windows**, check out **Ne
 * Live network interface stats, system info panel, and 1-click Quick Actions
 * Native dark theme with compositor/KDE blur support
 
-Learn more at **[nettool-flame.vercel.app](https://vercel.app)**.
+Learn more at **[nettool-get.vercel.app](https://vercel.app)**.
 
 ---
 
